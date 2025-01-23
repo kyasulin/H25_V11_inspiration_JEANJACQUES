@@ -7,6 +7,6 @@
      <img src="[chemin/vers/ton-image.jpg](https://th.bing.com/th/id/OIP.xJTVad7TTO7KH9JOCu5xmwHaEK?rs=1&pid=ImgDetMain)" alt="Description de l'image" width="500">
 </head>
 <body>
-    <!-- Contenu de la page -->
+    <h2> Mes intérêts </h2>
 </body>
 </html>
