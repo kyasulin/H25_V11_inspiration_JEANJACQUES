@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <h1> Présentation de Kathleen </h1>
-![photo](medias/gojo-1.jfif)
+![photo](exercice_semaine01/medias/gojo-1.jfif)
 </head>
 <body>
     <h2> Mes intérêts </h2>
