@@ -12,7 +12,8 @@ Vous pouvez ici observer quelques uns de mes edits que j'ai posté sur Instagram
 
 Aussi comme dit plus haut j'aime beaucoup regarder toute sorte d'animes (surtout les shonen et seinen ceci dit!), j'aime bien aussi les Kdramas, les jeux vidéos, j'aime aussi écouter de la musique en résumé je suis une loser...enfin voici quelques photos de mes animes/ jeux vidéos préférés. 
 
-![photo]()
+![photo](medias/JOJOASBR_launchTrailer_thumbnail.jpg.webp)
+
 
 ## Maintenant voici qui me plait dans l'introduction à la muséologie en TIM
 
