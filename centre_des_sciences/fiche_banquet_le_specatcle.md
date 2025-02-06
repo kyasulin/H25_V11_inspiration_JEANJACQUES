@@ -1,1 +1,1 @@
-![](medias/affiche-expo-02 =100x20)
+![photo](medias/affiche-expo-02 =100x20)
