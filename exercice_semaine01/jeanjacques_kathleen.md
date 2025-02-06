@@ -16,9 +16,10 @@ Aussi comme dit plus haut j'aime beaucoup regarder toute sorte d'animes (surtout
 
 ![photo](medias/genshin.jpg)
 
+Bon je voulais mettre d'autres images mais elles prenaient trop de plae donc voilà, je démissionne.
 
 ## Maintenant voici qui me plait dans l'introduction à la muséologie en TIM
 
-J'aime bien le fait de découvrir des expositions de toute sortes mais également le fait d'apprendre de nouvelles chose quant au multimédias ! Je ne pensais pas que la muse2ologie et le multimédia pouvaient être autant reliés et pourtant, oui, je suis surprise !
+J'aime bien le fait de découvrir des expositions de toute sortes mais également le fait d'apprendre de nouvelles chose quant au multimédias ! Je ne pensais pas que la muséologie et le multimédia pouvaient être autant reliés et pourtant, oui, je suis surprise !
 
-
+Fin !
