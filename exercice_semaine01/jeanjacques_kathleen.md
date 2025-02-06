@@ -14,7 +14,7 @@ Aussi comme dit plus haut j'aime beaucoup regarder toute sorte d'animes (surtout
 
 ![photo](medias/JOJOASBR_launchTrailer_thumbnail.jpg.webp)
 
-
+![photo](medias/genshin.jpg)
 
 
 ## Maintenant voici qui me plait dans l'introduction à la muséologie en TIM
