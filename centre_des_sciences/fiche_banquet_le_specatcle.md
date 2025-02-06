@@ -16,7 +16,5 @@ J’ai trouvé que c’était bien plus immersif et que ça pouvait être adress
 
 <img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
-<img src="./medias/kath-photo.webp" width="500" height="600"/>
-
 Voici une photo de moi devant l'entrée de l'exposition.
 
