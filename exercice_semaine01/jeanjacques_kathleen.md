@@ -12,4 +12,6 @@ Vous pouvez ici observer quelques uns de mes edits que j'ai posté sur Instagram
 
 ## Maintenant voici qui me plait dans l'introduction à la muséologie en TIM
 
-J'aime bien le fait de découvrir des expositions de toute sortes mais également le fait d'apprendre de nouvelles chose quant au multimédias ! Je ne pensais pas que la muse2ologie et le multimédia pouvaient être autant reliés et pourtant, oui, je suis surprise
+J'aime bien le fait de découvrir des expositions de toute sortes mais également le fait d'apprendre de nouvelles chose quant au multimédias ! Je ne pensais pas que la muse2ologie et le multimédia pouvaient être autant reliés et pourtant, oui, je suis surprise !
+
+
