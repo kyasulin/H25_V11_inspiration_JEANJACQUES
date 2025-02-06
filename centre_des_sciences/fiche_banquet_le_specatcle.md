@@ -1,6 +1,6 @@
 # VISITE AU CENTRE DES SCIENCES
 
-## ** L'EXPOSITION DU BANQUET**
+## **L'EXPOSITION DU BANQUET**
 Mon oeuvre préférée a été celle ci: 
 #### Le spectacle
 
