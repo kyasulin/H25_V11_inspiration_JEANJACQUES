@@ -20,5 +20,7 @@ Voici une photo de l'affiche du dispositif *Le Spectacle*, Décembre 2024
 
 Il s’agit d’une installation de type immersive et contemplative parce qu’on peut contempler les images défilant sur les écrans et sur la table, mais également immersive parce qu’il est possible pour nous de nous plonger dans l’Univers autour de nous puisque trois de nos sens sont mis en alerte grâce au diffuseur d’odeur et grâce au son également.
 
+<img src="./medias/projecteur.webp" width="500" height="600"/>
+
 J’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants. 
 
