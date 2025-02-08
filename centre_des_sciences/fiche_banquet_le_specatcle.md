@@ -12,6 +12,12 @@ Voici une photo de moi devant l'entrée de l'exposition.
 
 #### Le spectacle
 
+Je vais maintenant vous parler du dispositif que j'ai préféré dans cette exposition. il s'agit de cekui intitulé "Le Spectacle". 
+
+<img src="./medias/le_spectacle.webp" width="500" height="600"/>
+
+Il s’agit d’une installation de type immersive et contemplative parce qu’on peut contempler les images défilant sur les écrans et sur la table, mais également immersive parce qu’il est possible pour nous de nous plonger dans l’Univers autour de nous puisque trois de nos sens sont mis en alerte grâce au diffuseur d’odeur et grâce au son également.
+
 J’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants. 
 
 <img src="./medias/le_spectacle.webp" width="500" height="600"/>
