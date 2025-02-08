@@ -8,7 +8,7 @@ Tout d'abord, l'exposition s'est produite au Vieux-Montréal. Nous sommes allés
 
 <img src="./medias/kath-photo.webp" width="500" height="600"/>
 
-Voici une photo de moi devant l'entrée de l'exposition ***Banquet***
+*Voici une photo de moi devant l'entrée de l'exposition ***Banquet****
 
 #### Le spectacle
 
@@ -16,13 +16,17 @@ Je vais maintenant vous parler du dispositif que j'ai préféré dans cette expo
 
 <img src="./medias/le_spectacle.webp" width="500" height="600"/>
 
-Voici une photo de l'affiche du dispositif *Le Spectacle*, Décembre 2024
+*Voici une photo de l'affiche du dispositif *Le Spectacle*, Décembre 2024*
 
 Il s’agit d’une installation de type immersive et contemplative parce qu’on peut contempler les images défilant sur les écrans et sur la table, mais également immersive parce qu’il est possible pour nous de nous plonger dans l’Univers autour de nous puisque trois de nos sens sont mis en alerte grâce au diffuseur d’odeur et grâce au son également. 
 
 <img src="./medias/projecteur.webp" width="500" height="600"/>
 
+*Image du projecteur qui projettaient les images au murs et sur la table*
+
 <img src="./medias/dispositif-audio.webp" width="500" height="600"/>
+
+*Image de l'un des dispositif sonnores qui envoyaient du son tout autour de la pièce*
 
 <img src="./medias/dispositif-olfactif.jpg" width="500" height="600"/>
 
