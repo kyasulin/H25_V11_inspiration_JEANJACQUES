@@ -24,7 +24,7 @@ Il s’agit d’une installation de type immersive et contemplative parce qu’o
 
 <img src="./medias/dispositif-audio.webp" width="500" height="600"/>
 
-<img src="./medias/dispositif-olfactif.webp" width="500" height="600"/>
+<img src="./medias/dispositif-olfactif.jpg.webp" width="500" height="600"/>
 
 J’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants. 
 
