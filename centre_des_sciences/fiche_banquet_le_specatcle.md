@@ -30,7 +30,7 @@ Il s’agit d’une installation de type immersive et contemplative parce qu’o
 
 <img src="./medias/dispositif-olfactif.jpg" width="500" height="600"/>
 
-*Image de l'un des diffuseurs d'odeurs qui étaient présents sur la table et qui propagaient des odeurs dans toutes la pièces.*
+*Image de l'un des diffuseurs d'odeurs qui étaient présents sur la table et qui propagaient des odeurs dans toute la pièce.*
 
 L’installation a été faite dans une salle plus ou moins grande, et la table est très large pour que plusieurs personnes puisse s’installer et profiter de l’expérience. Le bons fonctionnements des diffuseurs et des projecteurs est bien entendu le critère le plus important à l'immersion des gens profitant de l'expérience. 
 
