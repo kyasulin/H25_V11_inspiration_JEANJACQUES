@@ -20,6 +20,12 @@ Je vais maintenant vous parler du dispositif que j'ai préféré dans cette expo
 
 Il s’agit d’une installation de type immersive et contemplative parce qu’on peut contempler les images défilant sur les écrans et sur la table, mais également immersive parce qu’il est possible pour nous de nous plonger dans l’Univers autour de nous puisque trois de nos sens sont mis en alerte grâce au diffuseur d’odeur et grâce au son également. 
 
+Pour assurer du bon fonctionnement du dispoditif, il faut que s'assurer avant tou du bon fonctionnement de trois éléments fondamentaux : 
+
+- [ ] Les projecteurs
+- [ ] Les diffuseurs olfactifs
+- [ ] Les diffuseurs auditif
+
 <img src="./medias/projecteur.webp" width="500" height="600"/>
 
 *Image du projecteur qui projettaient les images au murs et sur la table*
