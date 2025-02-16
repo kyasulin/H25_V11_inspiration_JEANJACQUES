@@ -47,3 +47,9 @@ J’ai trouvé que c’était bien plus immersif et que ça pouvait être adress
 Maintenant je vais parler un peu plus de mon expérience vécue à cette exposition : Je n’ai pas spécialement apprécié l’exposition en elle-même honnêtement. Je dois avouer que les interactions présentes étaient selon moi beaucoup plus ciblées pour les enfants de bas âge ce qui a fait en sorte que ce soit beaucoup moins intéressant pour moi. Mais j’ai tout de même beaucoup aimé le dispositif que j’ai choisi, c’est-à-dire le Spectacle, avec la table et les diffuseurs olfactifs. Même avec mon grand âge j’ai trouvé ça divertissant. Mais c’est tout ce que j’ai aimé. 
 
 Ce qui m'a le plus plu a été, comme dit plus haut, le dispositif du Spectacle parce que j’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants
+
+Pour finir, je vais maintenant parler des éléments que j'aurais changé si j'avais pu : j'aurais tout simplement mis des dispositif s'adressant à un public un peu moins jeune parce que vraiment tous les dispositifs présent au centre des sciences sont pour les enfants et sont donc assez ennuyeuse pour des gens de mon âge selon moi. Peut-être mettre une section réservée aux plus vieux ? Pour éviter que ceux-ci s'ennuient et qu'ils puissent eux aussi profiter de l'expérience. 
+
+Voilà c'est tout ce que j'avais à dire ! 
+
+FIN
