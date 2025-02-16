@@ -40,5 +40,7 @@ Pour assurer du bon fonctionnement du dispoditif, il faut que s'assurer avant to
 
 L’installation a été faite dans une salle plus ou moins grande, et la table est très large pour que plusieurs personnes puisse s’installer et profiter de l’expérience. Le bons fonctionnements des diffuseurs et des projecteurs est bien entendu le critère le plus important à l'immersion des gens profitant de l'expérience. 
 
-J’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants. 
+J’ai trouvé que c’était bien plus immersif et que ça pouvait être adressé à des personne plus vieilles et pas seulement des enfants.
+
+<img src="./medias/vue-ensemble.webp" width="500" height="600"/>
 
