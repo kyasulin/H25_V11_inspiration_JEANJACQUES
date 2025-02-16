@@ -44,3 +44,4 @@ J’ai trouvé que c’était bien plus immersif et que ça pouvait être adress
 
 <img src="./medias/vue-ensemble.webp" width="500" height="600"/>
 
+Maintenant je vais parler un peu plus de mon expérience vécue à cette exposition : Je n’ai pas spécialement apprécié l’exposition en elle-même honnêtement. Je dois avouer que les interactions présentes étaient selon moi beaucoup plus ciblées pour les enfants de bas âge ce qui a fait en sorte que ce soit beaucoup moins intéressant pour moi. Mais j’ai tout de même beaucoup aimé le dispositif que j’ai choisi, c’est-à-dire le Spectacle, avec la table et les diffuseurs olfactifs. Même avec mon grand âge j’ai trouvé ça divertissant. Mais c’est tout ce que j’ai aimé.
