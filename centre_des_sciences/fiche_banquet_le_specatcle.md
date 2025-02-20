@@ -4,7 +4,7 @@
 
 Aujourd'hui je vais vous parler un peu de l'exposition que nous avons tous visité la semaine dernière. Le nom de l'exposition est "Banquet" et je vais vous parler plus bas, de mon oeuvre préférée un peu plus en détails. 
 
-Tout d'abord, l'exposition s'est produite au Vieux-Montréal. Nous sommes allés la visiter le 30 Janvier. Elle a été réalisée en 2021 et il s'agit d'une exposition dite temporaire.
+Tout d'abord, l'exposition s'est produite au Vieux-Montréal. Nous sommes allés la visiter le 30 Janvier. Elle a été réalisée en 2021 pas la compagnie Cité de sciences etIndustrie et il s'agit d'une exposition dite temporaire.
 
 <img src="./medias/kath-photo.webp" width="500" height="600"/>
 
