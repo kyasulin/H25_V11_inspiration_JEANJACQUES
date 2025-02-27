@@ -6,7 +6,9 @@ Il s'agit comme vous pouvez l'appercevoir dans le titre plus haut, il s'agit qui
 
 [photos]
 
-Nous somme allés la visiter le Mardi 25 Février de 12h à 12h50 
+Nous somme allés la visiter le Mardi 25 Février de 12h à 12h50.
+
+Ce dispositif a été réalisé par des étudiants en programme TIM : Sitmonternna Yi, Delphine Grenier, Isaac Fafard, Kenza El Harrif et Khaly Tia Sing, étudiants de troisième année en Tecnique d'intégration Multimédias et ils l'ont réalisée cette année, donc en 2025. 
 
 
 
