@@ -1,3 +1,3 @@
-## Liste de tous les projets en ordre de poréférence 
+## Liste de tous les projets en ordre de préférence 
 
 
