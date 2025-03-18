@@ -32,3 +32,4 @@ J'ai mis ce dispositif en 6ème place parce que je trouve que ce n'est pas quelq
 
 ## 5ème place : Etheria 
 
+Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit jeu vidéo de défense. On incarne des personnages qui doivent défendre leur territoires, ils peuvent avoir des "power-ups" pour obtenir plus de pouvoir pour parvenir à éliminer les ennemis plus facilement et rapidement. 
