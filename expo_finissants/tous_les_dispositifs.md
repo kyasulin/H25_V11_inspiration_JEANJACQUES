@@ -24,6 +24,10 @@ Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été 
 
 *Ceci est une photo du fichier illustrator qui a servi à la création du jeu **Arcadia***
 
+<img src="./medias/arcadia-photo-2.jpg" width="500" height="600"/>
+
+*Ceci est une image de quelqu'un qui est en train de jouer au jeu*
+
 J'ai mis ce dispositif en 6ème place parce que je trouve que ce n'est pas quelque chose de spécialement créatif, c'est un peu quelque chose de vu et revu. Le concept est intéressant, et j'ai beaucoup aimé tester le jeu, mais je trouve que c'ee2tait assez basique comme projet. C'était tout de même très intéressant ! 
 
 ## 5ème place : Etheria 
