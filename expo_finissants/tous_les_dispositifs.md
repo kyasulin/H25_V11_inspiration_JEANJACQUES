@@ -18,4 +18,9 @@ Le concept du jeu est intéressant puisque ça sert justement à faire en sorte 
 
 ## 6ème place : 
 
-Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été fabriqué par trois étudiants : Dominique Yale, William Beauvais et Aton Nikulin. Arcadia est un petit jeu d'arcade intéractif. Un roi qui s'est fait attaqué par de vilaines créatures décide d'envoyer son chevalier aller découvrir d'où viennent les créatures. Le concept de ce dispositif est de recréer une expérience d'arcade en recréeant les styles des arcades de l'époque : par exemple les graphismes pixelisés du jeu qui font penser au style vintage des anciennes arcades. (source : https://cousi-cousa.github.io/Arcadia/#/20_intention/10_synopsis/)
+Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été fabriqué par trois étudiants : Dominique Yale, William Beauvais et Aton Nikulin. Arcadia est un petit jeu d'arcade intéractif. Un roi qui s'est fait attaqué par de vilaines créatures décide d'envoyer son chevalier aller découvrir d'où viennent les créatures. Le concept de ce dispositif est de recréer une expérience d'arcade en recréeant les styles des arcades de l'époque : par exemple les graphismes pixelisés du jeu qui font penser au style vintage des anciennes arcades. (source : https://cousi-cousa.github.io/Arcadia/#/20_intention/10_synopsis/) Voici quelques photos que j'ai prise de la maquette de l'installation d'Arcadia.
+
+<img src="./medias/arcadia-photo-1.jpg" width="500" height="600"/>
+
+*Ceci est une photo du fichier illustrator qui a servi à la création du jeu **Arcadia***
+
