@@ -1,4 +1,4 @@
-## Liste de tous les projets en ordre de préférence 
+# Liste de tous les projets en ordre de préférence 
 
 Voici tous les projest que les finissant du programme TIM ont préparé, classé en ordre de préférence, de celui que j'ai le moins aimé à mon préféré. 
 
@@ -6,13 +6,13 @@ Voici tous les projest que les finissant du programme TIM ont préparé, classé
 
 Le dispositif que j'ai le moins aimé est Condu8. Il a été créé par 5 étudiants : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Côté. Il s'agit d'un jeu vidéo où l'utilisateur doit pédaler aussi vite que possible sur un véo stationnaire pour gagner contre des robots programmés pour êtres des adversaires (source : ). Cela motive l'utilisateur à améliorer sa forme physique tout en s'amusant. Voici quelques photos de l'installation. Certaines ont été prises par moi, d'autres ont été prises sur le site officiel du dispositif Condu8 : 
 
+<p align="center" width="100%">
 <img src="./medias/condu8-photo-1.jpg" width="500" height="600"/>
 
-*Photo de la maquette du dispositif **Condu8**.*
-
+<p align="center" width="100%">
 <img src="./medias/condu8-photo-2.webp" width="500" height="600"/>
 
-*Photo de l'ordinateur du dispositif **Condu8**. Source : https://gearshift-games.github.io/Web-C0N-DU8/#/40_maquette/*
+*Photo de la maquette et de l'ordinateur du dispositif **Condu8**. Source : https://gearshift-games.github.io/Web-C0N-DU8/#/40_maquette/*
 
 <img src="./medias/plantation-condu8.webp" width="500" height="600"/>
 
@@ -60,6 +60,8 @@ Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit 
 
 À première vue, tout comme Arcadia le jeu m'a semblé attrayant parce que comme dit plus haut, j'aime beaucoup les jeux qui ont le style de pixel art. Ça m'a donc donné l'envie de tester, et je dois avouer que l'idée de contrôler les personnages grâce à des pions m'a semblé très créative, j'ai trouvé que ça changeait des "joysticks" habituels, ou alors des jeux sur ordinateurs. Ceci dit, tout comme Arcadia, je dois avouer que le concept du jeu reste un peu le même, c'est un peu vu et revu encore une fois. Ce type de jeu où il faut défendre son territoire est assez commun dans le domaine du jeu vidéo. 
 
+**Mon ressentiment ?**
+
 J'ai mis ce dispositif en 5ème place parce que je l'ai trouvé assez créatif dans la manière d'y jouer, mais en même temps je trouve que le concept du jeu de défense n'est pas spécialement créatif. J'ai tout de même apprécié y jouer !
 
-
+## 4ème place : 
