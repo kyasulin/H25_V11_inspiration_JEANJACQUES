@@ -40,7 +40,7 @@ Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été 
 
 *Voici une photo du schéma de plantation du projet **Arcadia**. source : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/*
 
-Lorsque j'ai observé le jeu pour la premiè1re fois, je l'ai trouvé assez attrayant visuellement, j'ai tout de suite beaucoup apprécié le style pixelisé des images, ça m'a fait pensé à d'anciens jeu vidéo comme Zelda et Mario. Lorsque j'ai joué, c'était très drôle, divertissant et le tout fonctionnait de maniere très fluide.  C'était très agréable à tester. Je pense que pour réussir à atteindre un résultat comme celui-ci il faut posséder des compétences en animation 2D, en programmation web et en illustration numérique. En illustration numérique pour avoir réussi à créer de jolies images animables, en animation 2D pour avoir réussi à animer les personnages et l'environnement dans lequel ils évoluent et en programmation web pour faire en sorte que le jeu fonctionne bien et que l'expé2rience soit fluide pour l'utilisateur. 
+Lorsque j'ai observé le jeu pour la premiè1re fois, je l'ai trouvé assez attrayant visuellement, j'ai tout de suite beaucoup apprécié le style pixelisé des images, ça m'a fait pensé à d'anciens jeu vidéo comme Zelda et Mario. Lorsque j'ai joué, c'était très drôle, divertissant et le tout fonctionnait de maniere très fluide.  C'était très agréable à tester. 
 
 **Mon ressentiment ?**
 
@@ -58,5 +58,8 @@ Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit 
 
 *Voici une image du schéma de plantation du dispositif Etheria. Source : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/*
 
-À premiè1re vue, tout comme Arcadia le jeu m'a semblé attrayant parce que comme dit plus haut, j'aime beaucoup les jeux qui ont le style de pixel art. Ça m'a donc donné l'envie de tester, et je dois avouer que l'idée de contrôler les personnages grâce à des pions m'a semblé très créative, j'ai trouvé que ça changeait des "joysticks" habituels, ou alors des jeux sur ordinateurs. Ceci dit, tout comme Arcadia, je dois avouer que le concept du jeu reste un peu le même, c'est un peu vu et revu encore une fois. Ce type de jeu où il faut de2fendre son territoire est assez commun dans le domaine du jeu vidéo. 
+À première vue, tout comme Arcadia le jeu m'a semblé attrayant parce que comme dit plus haut, j'aime beaucoup les jeux qui ont le style de pixel art. Ça m'a donc donné l'envie de tester, et je dois avouer que l'idée de contrôler les personnages grâce à des pions m'a semblé très créative, j'ai trouvé que ça changeait des "joysticks" habituels, ou alors des jeux sur ordinateurs. Ceci dit, tout comme Arcadia, je dois avouer que le concept du jeu reste un peu le même, c'est un peu vu et revu encore une fois. Ce type de jeu où il faut défendre son territoire est assez commun dans le domaine du jeu vidéo. 
+
+J'ai mis ce dispositif en 5ème place parce que je l'ai trouvé assez créatif dans la manière d'y jouer, mais en même temps je trouve que le concept du jeu de défense n'est pas spécialement créatif. J'ai tout de même apprécié y jouer !
+
 
