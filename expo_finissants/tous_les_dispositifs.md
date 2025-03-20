@@ -14,6 +14,10 @@ Le dispositif que j'ai le moins aimé est Condu8. Il a été créé par 5 étudi
 
 *Photo de l'ordinateur du dispositif **Condu8** source : https://gearshift-games.github.io/Web-C0N-DU8/#/40_maquette/*
 
+<img src="./medias/plantation-condu8.webp" width="500" height="600"/>
+
+*Voici ici une image du schéma de plantation imaginé par les étudiants ayant créé **Condu8**. Source : https://gearshift-games.github.io/Web-C0N-DU8/#/30_production/60_plantation/*
+
 Le concept du jeu est intéressant puisque ça sert justement à faire en sorte que les utilisateurs fassent de l'exercices tout en s'amusant ce qui est une idée très créative selon moi. Ceci dit, malgré ça, c'est le projet que j'ai le moins aimé tout simplement parce qu'il s'agit de quelque chose d'assez physique et que ce n'est pas mon genre de jeu préféré si je dois être tout à fait honnête. Je trouve qu'il y a beaucoup d'effort à faire pour réussir à battre les robots du jeu. 
 
 ## 6ème place : Arcadia
