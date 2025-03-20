@@ -38,6 +38,8 @@ Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été 
 
 *Voici une photo du schéma de plantation du projet **Arcadia**. source : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/*
 
+Lorsque j'ai observé le jeu pour la premiè1re fois, je l'ai trouvé assez attrayant visuellement, j'ai tout de suite beaucoup apprécié le style pixelisé des images, ça m'a fait pensé à d'anciens jeu vidéo comme Zelda et Mario. Lorsque j'ai joué, c'était très drôle, divertissant et le tout fonctionnait de maniere très fluide.  C'était très agréable à tester. Je pense que pour réussir à atteindre un résultat comme celui-ci il faut posséder des compétences en animation 2D, en programmation web et en illustration numérique. En illustration numérique pour avoir réussi à créer de jolies images animables, en animation 2D pour avoir réussi à animer les personnages et l'environnement dans lequel ils évoluent et en programmation web pour faire en sorte que le jeu fonctionne bien et que l'expé2rience soit fluide pour l'utilisateur. 
+
 J'ai mis ce dispositif en 6ème place parce que je trouve que ce n'est pas quelque chose de spécialement créatif, c'est un peu quelque chose de vu et revu. Le concept est intéressant, et j'ai beaucoup aimé tester le jeu, mais je trouve que c'ee2tait assez basique comme projet. C'était tout de même très intéressant ! 
 
 ## 5ème place : Etheria 
