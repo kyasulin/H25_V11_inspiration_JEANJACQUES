@@ -74,15 +74,4 @@ Le 4ème dispositif est Fuga. Le projet a été créé par 5 étudiants : Matis 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Source : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
