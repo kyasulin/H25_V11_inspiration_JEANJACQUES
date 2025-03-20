@@ -29,14 +29,15 @@ Je pense que pour avoir réussi à créer un jeu comme celui-ci il faut posséde
 
 Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été fabriqué par trois étudiants : Dominique Yale, William Beauvais et Aton Nikulin. Arcadia est un petit jeu d'arcade intéractif. Un roi qui s'est fait attaqué par de vilaines créatures décide d'envoyer son chevalier aller découvrir d'où viennent les créatures. Le concept de ce dispositif est de recréer une expérience d'arcade en recréeant les styles des arcades de l'époque : par exemple les graphismes pixelisés du jeu qui font penser au style vintage des anciennes arcades. (source : https://cousi-cousa.github.io/Arcadia/#/20_intention/10_synopsis/) Voici quelques photos que j'ai prise de la maquette de l'installation d'Arcadia.
 
+<p align="center" width="100%">
 <img src="./medias/arcadia-photo-1.jpg" width="500" height="600"/>
 
-*Ceci est une photo du fichier illustrator qui a servi à la création du jeu **Arcadia**.*
-
+<p align="center" width="100%">
 <img src="./medias/arcadia-photo-2.jpg" width="500" height="600"/>
 
-*Ceci est une image de quelqu'un qui est en train de tester le jeu.*
+*Ceci sont des images du fichier illustrator qui a servi à la création du jeu **Arcadia** et de quelqu'un qui est en train de tester le jeu.*
 
+<p align="center" width="100%">
 <img src="./medias/plantation-arcadia.png" width="500" height="600"/>
 
 *Voici une photo du schéma de plantation du projet **Arcadia**. source : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/*
@@ -54,8 +55,7 @@ Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit 
 <p align="center" width="100%">
 <img src="./medias/Etheria-photo-1.jpg" width="500" height="600"/>
 
-*Voici une photo du dispositif **Etheria**.*
-
+<p align="center" width="100%">
 <img src="./medias/plantation-etheria.jpg" width="500" height="600"/>
 
 *Voici une photo du dispositif **Etheria** et une photo du schéma de plantation du dispositif Etheria. Source : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/*
@@ -66,4 +66,23 @@ Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit 
 
 J'ai mis ce dispositif en 5ème place parce que je l'ai trouvé assez créatif dans la manière d'y jouer, mais en même temps je trouve que le concept du jeu de défense n'est pas spécialement créatif. J'ai tout de même apprécié y jouer !
 
-## 4ème place : 
+## 4ème place : Fuga 
+
+Le 4ème dispositif est Fuga. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
