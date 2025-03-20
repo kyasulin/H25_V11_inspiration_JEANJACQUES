@@ -14,6 +14,7 @@ Le dispositif que j'ai le moins aimé est Condu8. Il a été créé par 5 étudi
 
 *Photo de la maquette et de l'ordinateur du dispositif **Condu8**. Source : https://gearshift-games.github.io/Web-C0N-DU8/#/40_maquette/*
 
+<p align="center" width="100%">
 <img src="./medias/plantation-condu8.webp" width="500" height="600"/>
 
 *Voici ici une image du schéma de plantation imaginé par les étudiants ayant créé **Condu8**. Source : https://gearshift-games.github.io/Web-C0N-DU8/#/30_production/60_plantation/*
@@ -50,13 +51,14 @@ J'ai mis ce dispositif en 6ème place parce que je trouve que ce n'est pas quelq
 
 Le troisième dispositif est Etheria. Un peu comme Arcadia il s'agit d'un petit jeu vidéo de défense. On incarne des personnages qui doivent défendre un diamant, ils peuvent avoir des "power-ups" pour obtenir plus de pouvoir pour parvenir à éliminer les ennemis plus facilement et rapidement. Le jeu est composé de 6 niveaux et à chaque fois, il devient de plus en plus compliqué de réussir à éliminer tous les monstres s'attaquant au cristal. Pour jouer au jeu il faut utiliser des pions qui ont été créés grâce à un imprimante 3D. Les images sont projetées sur une table grâce à des projecteurs suspendus en hauteur et il y a également du son qui sort de haut-parleurs. 
 
+<p align="center" width="100%">
 <img src="./medias/Etheria-photo-1.jpg" width="500" height="600"/>
 
 *Voici une photo du dispositif **Etheria**.*
 
 <img src="./medias/plantation-etheria.jpg" width="500" height="600"/>
 
-*Voici une image du schéma de plantation du dispositif Etheria. Source : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/*
+*Voici une photo du dispositif **Etheria** et une photo du schéma de plantation du dispositif Etheria. Source : https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/*
 
 À première vue, tout comme Arcadia le jeu m'a semblé attrayant parce que comme dit plus haut, j'aime beaucoup les jeux qui ont le style de pixel art. Ça m'a donc donné l'envie de tester, et je dois avouer que l'idée de contrôler les personnages grâce à des pions m'a semblé très créative, j'ai trouvé que ça changeait des "joysticks" habituels, ou alors des jeux sur ordinateurs. Ceci dit, tout comme Arcadia, je dois avouer que le concept du jeu reste un peu le même, c'est un peu vu et revu encore une fois. Ce type de jeu où il faut défendre son territoire est assez commun dans le domaine du jeu vidéo. 
 
