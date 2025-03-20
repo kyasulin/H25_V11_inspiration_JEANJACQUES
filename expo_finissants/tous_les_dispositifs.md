@@ -34,6 +34,10 @@ Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été 
 
 *Ceci est une image de quelqu'un qui est en train de jouer au jeu*
 
+<img src="./medias/plantation-arcadia.png" width="500" height="600"/>
+
+*Voici une photo du schéma de plantation du projet **Arcadia**. source : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/*
+
 J'ai mis ce dispositif en 6ème place parce que je trouve que ce n'est pas quelque chose de spécialement créatif, c'est un peu quelque chose de vu et revu. Le concept est intéressant, et j'ai beaucoup aimé tester le jeu, mais je trouve que c'ee2tait assez basique comme projet. C'était tout de même très intéressant ! 
 
 ## 5ème place : Etheria 
