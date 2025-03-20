@@ -27,7 +27,7 @@ Je pense que pour avoir réussi à créer un jeu comme celui-ci il faut posséde
 
 ## 6ème place : Arcadia
 
-Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été fabriqué par trois étudiants : Dominique Yale, William Beauvais et Aton Nikulin. Arcadia est un petit jeu d'arcade intéractif. Un roi qui s'est fait attaqué par de vilaines créatures décide d'envoyer son chevalier aller découvrir d'où viennent les créatures. Le concept de ce dispositif est de recréer une expérience d'arcade en recréeant les styles des arcades de l'époque : par exemple les graphismes pixelisés du jeu qui font penser au style vintage des anciennes arcades. (source : https://cousi-cousa.github.io/Arcadia/#/20_intention/10_synopsis/) Voici quelques photos que j'ai prise de la maquette de l'installation d'Arcadia.
+Le deuxième dispositif dont je vais parler est celui nommé Arcadia. Il a été fabriqué par trois étudiants : Dominique Yale, William Beauvais et Aton Nikulin. Arcadia est un petit jeu d'arcade intéractif. Un roi qui s'est fait attaqué par de vilaines créatures décide d'envoyer son chevalier aller découvrir d'où viennent les créatures. Le concept de ce dispositif est de recréer une expérience d'arcade en recréeant les styles des arcades de l'époque : par exemple les graphismes pixelisés du jeu qui font penser au style vintage des anciennes arcades. (source : https://cousi-cousa.github.io/Arcadia/#/20_intention/10_synopsis/) Voici quelques photos que j'ai prise de la maquette de l'installation d'Arcadia.
 
 <p align="center" width="100%">
 <img src="./medias/arcadia-photo-1.jpg" width="500" height="600"/>
@@ -42,7 +42,7 @@ Le deuxième dispositif dont je ais parler est celui nommé Arcadia. Il a été 
 
 *Voici une photo du schéma de plantation du projet **Arcadia**. source : https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/*
 
-Lorsque j'ai observé le jeu pour la premiè1re fois, je l'ai trouvé assez attrayant visuellement, j'ai tout de suite beaucoup apprécié le style pixelisé des images, ça m'a fait pensé à d'anciens jeu vidéo comme Zelda et Mario. Lorsque j'ai joué, c'était très drôle, divertissant et le tout fonctionnait de maniere très fluide.  C'était très agréable à tester. 
+Lorsque j'ai observé le jeu pour la première fois, je l'ai trouvé assez attrayant visuellement, j'ai tout de suite beaucoup apprécié le style pixelisé des images, ça m'a fait pensé à d'anciens jeu vidéo comme Zelda et Mario. Lorsque j'ai joué, c'était très drôle, divertissant et le tout fonctionnait de maniere très fluide.  C'était très agréable à tester. 
 
 **Mon ressentiment ?**
 
@@ -68,7 +68,7 @@ J'ai mis ce dispositif en 5ème place parce que je l'ai trouvé assez créatif d
 
 ## 4ème place : Fuga 
 
-Le 4ème dispositif est Fuga. 
+Le 4ème dispositif est Fuga. Le projet a été créé par 5 étudiants : Matis Labelle, Tristan Khadka, Daniel Dezemma, Abdel Ali Djeral et Yazuv-Selim Gucluer. 
 
 
 
