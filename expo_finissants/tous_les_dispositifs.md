@@ -68,10 +68,12 @@ J'ai mis ce dispositif en 5ème place parce que je l'ai trouvé assez créatif d
 
 ## 4ème place : Fuga 
 
-Le 4ème dispositif est Fuga. Le projet a été créé par 5 étudiants : Matis Labelle, Tristan Khadka, Daniel Dezemma, Abdel Ali Djeral et Yazuv-Selim Gucluer. 
+Le 4ème dispositif est Fuga. Le projet a été créé par 5 étudiants : Matis Labelle, Tristan Khadka, Daniel Dezemma, Abdel Ali Djeral et Yazuv-Selim Gucluer. Le concept de ce jeu est en fait une sorte laboratoire spécial où des scientifiques ont créé trois arbres qui grandissent quand ils entendend certains sons. L'utilisateur utilise des manettes pour faire des bruits spéciaux, et ces sons aident les arbres à pousser. Si les sons sont beaux et bien faits, l'arbre devient grand et joli, et plein d'autres plantes poussent autour. Mais si les sons sont mauvais ou trop forts, l'arbre arrête de grandir et tout devient abîmé. 
 
+<p align="center" width="100%">
+<img src="./medias/fuga-photo-1.jpg" width="500" height="600"/>
 
+<p align="center" width="100%">
+<img src="./medias/fuga-plantation-face.png" width="500" height="600"/>
 
-
-
-Source : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
+*Voici deux images montrant le dispositif **Fuga** prise par moi-même et une image de son schéma de plantation. Source : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/*
