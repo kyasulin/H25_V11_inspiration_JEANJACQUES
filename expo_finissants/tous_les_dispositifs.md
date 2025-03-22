@@ -78,6 +78,19 @@ Le 4ème dispositif est Fuga. Le projet a été créé par 5 étudiants : Matis 
 
 *Voici deux images montrant le dispositif **Fuga** prise par moi-même et une image de son schéma de plantation. Source : https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/*
 
-Lorsque j'ai vu ce dispositif pour la première fois, ça ne m;a pas paru spécialement attrayant, mais lorsque je l'ai testé j'ai tout de suite beaucoup aimé. 
+**Mon ressentiment ?**
+Lorsque j'ai vu ce dispositif pour la première fois, ça ne m'a pas paru spécialement attrayant, mais lorsque je l'ai testé j'ai tout de suite beaucoup aimé. J'ai trouvé très intéressant que l'utilisateur puisse faire pousser son arbre et que cela soit directement lié au son que l'utilisateur génère. Le tout était très beau visuellement et interactif ce que j'ai trouvé très amusant à tester. Bien que ce soit un peu limité comme concept, j'ai beaucoup aimé l'essayer. Ceci dit je l'ai mis en 4ème place parce que jai eu d'autres coups de coeur !
+
+## 3ème place : Luminatura 
+
+Le 3ème dispositif dont je vais parler est luminatura. Il s'agit d'un endroit où la nature et la technologie se mélangent. Il y a des fleurs qui brillent, des vignes, et des lanternes qui sont projetés sur les murs et qui rendent l’endroit plus beau et chaleureux. Lorsque l'utilisateur touche une plaque en métal, elle sent que la peau peut conduire l’électricité (un peu comme un fil) et allume les lumières et les sons. 
+
+<p align="center" width="100%">
+<img src="./medias/luminatura-photo-1.jpg" width="600" height="600"/>
+
+<p align="center" width="100%">
+<img src="./medias/luminatura-photo-2.jpeg" width="600" height="600"/>
+
+*Voici deux photos du dispositif **Luminatura**. La première a été prise par moi et la deuxiè1me est originaire du site web. Source : https://miaou-mafia.github.io/projet-luminatura/#/* 
 
 
