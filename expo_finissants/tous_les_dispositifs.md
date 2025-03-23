@@ -104,5 +104,26 @@ Au tout début, j'ai cru que le concept de Luminatura allait être très basique
 
 ## 2ème place : Prismatica
 
+Mon deuxième dispositif préféré est Prismatica. Il a été créé par 3 finissants : Vincent Delisle, Ikrame Rata et Jérémy Duverseau. Prismatica est une expérience interactive qui mélange les sons et les couleurs. Lorsque l'utilisateur dessine sur un tableau blanc avec des marqueurs colorés, chaque couleur produit un son unique, un peu comme une note de musique. Une caméra regarde ce que l'utilisateur dessine et, grâce à un logiciel appelé TouchDesigner, elle transforme chaque couleur en mélodie. En portant un casque audio, il est possible d'entendre les sons de la création pendant que l'utilisateur dessine. C’est une façon géniale de voir comment les images et les sons peuvent travailler ensemble pour créer quelque chose d’unique, rien qu’à partir de dessins. 
+
+<p align="center" width="100%">
+<img src="./medias/prismatica-photo-1.jpg" width="600" height="600"/>
+
+<p align="center" width="100%">
+<img src="./medias/prismatica-photo-2.jpg" width="600" height="600"/>
+
+*Voici des photos prises par moi-même de la maquette/des test du dipositif **Prismatica**.*
+
+<p align="center" width="100%">
+<img src="./medias/plantation-prismatica-01.jpg" width="600" height="600"/>
+
+<p align="center" width="100%">
+<img src="./medias/plantation-prismatica-02.jpg" width="600" height="600"/>
+
+*Voici deux images du shcéma de plantation du dispositif **Prismatic**. Source : https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/* 
+
+**Mon ressentiment ?**
+
+
 
 
