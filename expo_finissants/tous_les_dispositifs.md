@@ -83,7 +83,7 @@ Lorsque j'ai vu ce dispositif pour la première fois, ça ne m'a pas paru spéci
 
 ## 3ème place : Luminatura 
 
-Le 3ème dispositif dont je vais parler est luminatura. Il s'agit d'un endroit où la nature et la technologie se mélangent. Il y a des fleurs qui brillent, des vignes, et des lanternes qui sont projetés sur les murs et qui rendent l’endroit plus beau et chaleureux. Lorsque l'utilisateur touche une plaque en métal, elle sent que la peau peut conduire l’électricité (un peu comme un fil) et allume les lumières et les sons. 
+Le 3ème dispositif dont je vais parler est luminatura. Le dispositif a été créé par 5 étudiants : Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam. Il s'agit d'un endroit où la nature et la technologie se mélangent. Il y a des fleurs qui brillent, des vignes, et des lanternes qui sont projetés sur les murs et qui rendent l’endroit plus beau et chaleureux. Lorsque l'utilisateur touche une plaque en métal, elle sent que la peau peut conduire l’électricité (un peu comme un fil) et allume les lumières et les sons. 
 
 <p align="center" width="100%">
 <img src="./medias/luminatura-photo-1.jpg" width="600" height="600"/>
@@ -92,5 +92,17 @@ Le 3ème dispositif dont je vais parler est luminatura. Il s'agit d'un endroit o
 <img src="./medias/luminatura-photo-2.jpeg" width="600" height="600"/>
 
 *Voici deux photos du dispositif **Luminatura**. La première a été prise par moi et la deuxiè1me est originaire du site web. Source : https://miaou-mafia.github.io/projet-luminatura/#/* 
+
+<p align="center" width="100%">
+<img src="./medias/plantation-luminatura.jpg" width="600" height="600"/>
+
+*Voici une image du schéma de plantation du dispositif **Luminatura**. Source : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/* 
+
+**Mon ressentiment ?**
+
+Au tout début, j'ai cru que le concept de Luminatura allait être très basique. Mais j'ai honnêtement été très surprise. Je croyais qu'il fallait juste appuyer sur un espèce de bouton où on contrôle les lumière et les sons, mais les étudiante m'ont expliqué le fonctionnement du dispositif et j'ai tout de suite changé d'avis. Le fait que ce soit la chaleur des mains de l'utilisateur qui active le slumie1res et le son est incroyable et demande sûrement beaucoup de connaissances. J'ai beaucoup aimé tester ce dispositif et je l'ai trouvé très ingénieux, c'est pourquoi je l'ai mis en troisième place. 
+
+## 2ème place : Prismatica
+
 
 
