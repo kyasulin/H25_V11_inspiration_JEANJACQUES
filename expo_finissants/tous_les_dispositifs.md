@@ -130,6 +130,18 @@ Lorsque j'ai vu d'autres gens tester le dispositif, j'ai tout de suite su que j'
 
 Pour terminer, je vais parler de mon dispositif préféré de toute l'exposition. il s'agit du dispositif nommé internature. Il a été créé par 5 étudiants : Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif. Le concept de ce dispositif est très recherchcé selon moi, c'est pour cela qu'il est mon préféré. Je vais explqieur le concept brièvement : Imaginez un espèce tunnel. Dedans, il y a une grosse boule qu'il est possible de faire bouger. Quand l'utilisateur la bouge, des plantes bizarres poussent et changent un peu comme si l'utilisateur était dans un jardin surpuissant. C'est un peu comme le mythe de Sisyphe, un homme de la mythologie Grecque qui devait toujours pousser une pierre en haut d'une montagne, mais elle retombait toujours. Dans le tunnel, les plantes grandissent grâce, mais elles ne restent pas comme ça éternellement, elles finissent par changer. L'idée derrière ce dispositif est de faire réfléchir les utilisateurs à leur impact sur la nature : même si il est possible de faire des choses incroyables, rien ne dure éternellement. Tout change tout le temps, et nos actions ont un impact, même si c'est temporaire. C'est une expérience où on joue avec la nature. 
 
+<p align="center" width="100%">
+<img src="./medias/internature-photo-1.jpg" width="600" height="600"/>
+
+<p align="center" width="100%">
+<img src="./medias/internature-photo-2.jpg" width="600" height="600"/>
+
+*Cette image représente le tunnel et la boule que les utilisateurs vont devoir faire tourner pour "activer" les plantes aux alentours* 
+
+<p align="center" width="100%">
+<img src="./medias/internature-photo-2.jpg" width="600" height="600"/>
+
+
 
 
 
