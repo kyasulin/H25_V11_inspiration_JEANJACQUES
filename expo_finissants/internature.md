@@ -34,9 +34,13 @@ Il s'agit d'un dispositif immersif, grâce aux sons et aux lumières, et interac
 <img src="./medias/internature-photo-2.jpg" width="400" height="500"/>
 
 <p align="center" width="100%">
-<img src="./medias/projecteurs.jpg" width=4300" height="500"/>
+<img src="./medias/projecteurs.jpg" width="400" height="500"/>
 
-*Voici ici deux photos nous permettant de comprendre le type d'installation* 
+*Voici ici deux photos nous permettant de comprendre le type d'installation d'Internature* 
+
+<p align="center" width="100%">
+<img src="./medias/ensemble-dispositif.jpg" width="600" height="500"/>
+
 
 
 
