@@ -75,5 +75,5 @@ Source : https://tprangers.github.io/internature/#/20_intention/10_synopsis/
 
 Dès le premier contact, Internature a éveillé ma curiosité grâce à son concept original. La référence à Sisyphe, symbolisant l'effort constant de la création végétale est selon moi extrêmement pertinente. L'installation met en lumière l'impact, même fugace, de nos actions sur l'environnement, tout en soulignant notre capacité à créer temporairement notre monde. J'ai été immédiatement attirée par l'aspect interactif, qui invite à devenir créateur de la transformation d'un genre d'écosystème artificiel. L'ensemble stimule la réflexion sur notre relation à la nature et la place de l'humain. C'est une fusion qui est, selon moi, très réussie de l'art, de la technologie et de la philosophie qui, selon moi, ne peut que susciter l'intérêt et la contemplation.
 
-
+J'ai vraiment beaucoup aimé l'idée d'aller s'inspirer de la mythologie Grecque pour créer quelque chose de technologique, je trouve que les idées, bien qu'elles soient totalement opposées ont donné un très joli résultat final. 
 
