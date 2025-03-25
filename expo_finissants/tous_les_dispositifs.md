@@ -139,10 +139,20 @@ Pour terminer, je vais parler de mon dispositif préféré de toute l'exposition
 *Cette image représente le tunnel et la boule que les utilisateurs vont devoir faire tourner pour "activer" les plantes aux alentours* 
 
 <p align="center" width="100%">
-<img src="./medias/internature-photo-2.jpg" width="600" height="600"/>
+<img src="./medias/plantation-internature.jpg" width="600" height="600"/>
 
+<p align="center" width="100%">
+<img src="./medias/plantation-internature-2.jpg" width="600" height="600"/>
 
+<p align="center" width="100%">
+<img src="./medias/plantation-internature-sphere.jpg" width="600" height="600"/>
 
+*Voici ici des photos des schémas de plantation du dispositif et de la sphere qui permet d'activer les images. Source : https://tprangers.github.io/internature/#/30_production/60_plantation/*
 
+**Mon ressentiment ?**
 
+Au tout début, l'idée d'Internature m'a intrigué. La métaphore de Sisyphe, appliquée à une croissance végétale, est un concept puissant. L'installation semble capturer nos actions sur le monde, tout en montrant notre capacité à influencer, même temporairement, notre environnement. L'aspect interactif m'a séduit particulièrement ; l'idée de participer à la création et à la transformation de cet écosystème artificiel est fascinante. J'ai été curieuse et stimulée par cette expérience qui invite à la contemplation et à la réflexion sur notre place dans un monde évolution. C'est selon moi un mélange intrigant d'art, de technologie et de philosophie. 
 
+## Conclusion 
+
+Ceci conlut donc mon classements des dispositifs créés par les finissants. J'ai beaucoup apprécié tous les dispositifs dans l'ensemble ! 
