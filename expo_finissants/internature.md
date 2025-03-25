@@ -41,6 +41,39 @@ Il s'agit d'un dispositif immersif, grâce aux sons et aux lumières, et interac
 <p align="center" width="100%">
 <img src="./medias/ensemble-dispositif.jpg" width="600" height="500"/>
 
+Le but de ce dispositif est en gros comme dit plus haut de démontrer l'impact que les êtres humains ont sur la nature, même si ces impacts sont temporaires. Le dispositif se trouvent au beau milieu de la pièce. 
+
+<p align="center" width="100%">
+<img src="./medias/croquis.jpg" width="600" height="500"/>
+
+Voici un corquis de ce à quoi ressemble l'installation du dispositif dans la pièce. 
+Le dispositif est composé de plusieurs éléments indispensables au bon fonctionnement du dispositif : 
+
+1. Un environnement renfermé
+2. Une surface propice pour la projection
+3. Deux projecteurs
+4. Deux haut-parleurs accompagnés d’une carte de son
+5. Une sphère
+6. Un support de la sphère
+7. Un ordinateur
+
+Source : https://tprangers.github.io/internature/#/20_intention/10_synopsis/
+
+<p align="center" width="100%">
+<img src="./medias/projecteurs.jpg" width="400" height="500"/>
+
+<p align="center" width="100%">
+<img src="./medias/souris-capteur.jpg" width="400" height="500"/>
+
+<p align="center" width="100%">
+<img src="./medias/souris-capteur-2.jpg" width="400" height="500"/>
+
+<p align="center" width="100%">
+<img src="./medias/ordinateur-capteur.jpg" width="400" height="500"/>
+
+*Voici ici des images des projecteurs nécessaires à l'apparition des images contre les parois du tunnel, des capteurs qui détectetent les mouvements de la sphère qui bouge. il s'agit comme les étudiants me l'ont expliqué d'une souris qu'il ont un peu "démembré" si je puis dire.* 
+
+Dès le premier contact, Internature a éveillé ma curiosité grâce à son concept original. La référence à Sisyphe, symbolisant l'effort constant de la création végétale est selon moi extrêmement pertinente. L'installation met en lumière l'impact, même fugace, de nos actions sur l'environnement, tout en soulignant notre capacité à créer temporairement notre monde. J'ai été immédiatement attirée par l'aspect interactif, qui invite à devenir créateur de la transformation d'un genre d'écosystème artificiel. L'ensemble stimule la réflexion sur notre relation à la nature et la place de l'humain. C'est une fusion qui est, selon moi, très réussie de l'art, de la technologie et de la philosophie qui, selon moi, ne peut que susciter l'intérêt et la contemplation.
 
 
 
