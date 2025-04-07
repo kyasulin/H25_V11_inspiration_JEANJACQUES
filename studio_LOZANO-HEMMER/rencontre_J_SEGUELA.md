@@ -11,6 +11,9 @@ Il s'agit d'une artiste montréalaise qui travaille dans le milieu de l'art num�
 
 Rafael Lozano-Hemmer est un artiste mexicain-canadien né à Mexico en 1967. Il a étudié la chimie physique à l'Université Concordia à Montréal, où il a obtenu un baccalauréat ès sciences en 1989. Il vit et travaille actuellement à Montréal.
 
+<p align="center" width="100%">
+<img src="./medias/jade_seguela.jpg" width="300" height="300"/>
+
 ### De quoi parlait cette conférence ?
 
 Lors de la conférence, elle nous a expliqué le processus complexe et collaboratif derrière la création et l'exposition d'œuvres interactives, mais elle nous a également montré trois de ces oeuvres : Cloud Display (on dit un mot et il s'affiche en fumée), Binosular Tension (des yeux suivent les utilisateurs du regard) et Shadow Tuner (Un globe etrrestre géant reflétant les ombres de ceux qui passent devant).
