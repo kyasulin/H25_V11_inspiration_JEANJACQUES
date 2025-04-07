@@ -2,17 +2,21 @@ Nous avons assisté à une conférence de Jade Séguela.
 
 ### Qui est Jade Séguela ?
 
-Il s'agit d'une artiste montréalaise qui travaille dans le milieu de l'art numérique. Elle a fait une maîtrise en muséologie a l'Université du Québec à Montréal et elle travaille en tant que régisseuse pour l'artiste Rafael Lozano-Hemmer. 
+Il s'agit d'une artiste montréalaise qui travaille dans le milieu de l'art numérique. Elle a fait une maîtrise en muséologie a l'Université du Québec à Montréal et elle travaille pour l'artiste Rafael Lozano-Hemmer. 
 
 <p align="center" width="100%">
 <img src="./medias/jade_seguela.jpg" width="300" height="300"/> 
 
+*Voici une image de l'artiste Rafael Lozano-Hemmer. Source : https://ca.linkedin.com/in/jade-s%C3%A9gu%C3%A9la-23185213b*
+
 ### Qui est Rafael Lozano-Hemmer ?
 
-Rafael Lozano-Hemmer est un artiste mexicain-canadien né à Mexico en 1967. Il a étudié la chimie physique à l'Université Concordia à Montréal, où il a obtenu un baccalauréat ès sciences en 1989. Il vit et travaille actuellement à Montréal.
+Rafael Lozano-Hemmer est un artiste mexicain-canadien né à Mexico en 1967. Il a étudié la chimie physique à l'Université Concordia à Montréal, où il a obtenu un baccalauréat en sciences. 
 
 <p align="center" width="100%">
 <img src="./medias/Rafael_Lozano-Hemmer_Portrait.jpg" width="400" height="300"/>
+
+*Voici une image de l'artiste Rafael Lozano-Hemmer. Source : https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer*
 
 ### De quoi parlait cette conférence ?
 
@@ -23,10 +27,7 @@ La conférence montre l'importance de la collaboration avec des chercheurs et de
 <p align="center" width="100%">
 <img src="./medias/shadow_tuner_02.jpg" width="800" height="600"/>
 
-<p align="center" width="100%">
-<img src="./medias/shadow_tuner_03.jpg" width="800" height="600"/>
-
-*Voici deux photos du projet de "poulet rôti" géant, le Shadow Tuner, à Dubai. Source : https://www.lozano-hemmer.com/projects.php*
+*Voici une photo du projet de "poulet rôti" géant, le Shadow Tuner, dans le désert de Dubai. Source : https://www.lozano-hemmer.com/projects.php*
 
 La conférence montre l'importance de la collaboration technique et logistique dans la réalisation d'œuvres d'art modernes, où chaque détail, du câblage aux projections, participe à l'expérience du public.
 
