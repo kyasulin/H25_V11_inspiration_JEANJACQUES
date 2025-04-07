@@ -4,7 +4,8 @@ Nous avons assisté à une conférence de Jade Séguela.
 
 Il s'agit d'une artiste montréalaise qui travaille dans le milieu de l'art numérique. Elle a fait une maîtrise en muséologie a l'Université du Québec à Montréal et elle travaille en tant que régisseuse pour l'artiste Rafael Lozano-Hemmer. 
 
-
+<p align="center" width="100%">
+<img src="./medias/jade_seguela.jpg" width="300" height="300"/> 
 
 ### Qui est Rafael Lozano-Hemmer ?
 
