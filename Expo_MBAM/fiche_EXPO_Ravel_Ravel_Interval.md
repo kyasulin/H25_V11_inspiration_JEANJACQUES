@@ -1,8 +1,6 @@
 # Travail 5 : Visite au Musée des Beaux-Arts de Montréal 
 
-Le 3 avril nous sommes allés viister une exposition au Musée des Beaux-Arts de Montréal. 
-
-Il s'agit d'une exposition temporaire en intérieur. 
+Le 3 avril nous sommes allés viister une exposition au Musée des Beaux-Arts de Montréal. Il s'agit d'une exposition temporaire en intérieur. 
 
 <p align="center" width="100%">
 <img src="./medias/cartel_oeuvre1.jpg" width="300" height="500"/>
@@ -12,7 +10,7 @@ Il s'agit d'une exposition temporaire en intérieur.
 
 *Voici une photo du cartel décrivant l'oeuvre et du cartel montrant les crédits de l'oeuvre* 
 
-L'oeuvre que j'ai choisi se nomme Ravel Ravel Interval. C'est une nouvre de type contemplatif Elle a été créée en 2017 par Anri Sala. 
+L'oeuvre que j'ai choisi se nomme Ravel Ravel Interval. C'est une nouvre de type contemplative créée en 2017 par Anri Sala. elle a été exposée comme dit plus haut au Musée des Beaux-Arts de Montréal.  
 
 <p align="center" width="100%">
 <img src="./medias/ensemble_oeuvre1.jpg" width="500" height="600"/>
