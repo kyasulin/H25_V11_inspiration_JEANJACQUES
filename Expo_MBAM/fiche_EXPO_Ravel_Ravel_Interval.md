@@ -6,8 +6,11 @@ Il s'agit d'une exposition temporaire en intérieur.
 
 <p align="center" width="100%">
 <img src="./medias/cartel_oeuvre1.jpg" width="300" height="500"/>
+  
+<p align="center" width="100%">
+<img src="./medias/infos_oeuvre1.jpg" width="300" height="500"/>
 
-*Voici une photo du cartel décrivant l'oeuvre* 
+*Voici une photo du cartel décrivant l'oeuvre et du cartel montrant les crédits de l'oeuvre* 
 
 L'oeuvre que j'ai choisi se nomme Ravel Ravel Interval. C'est une nouvre de type contemplatif Elle a été créée en 2017 par Anri Sala. 
 
@@ -29,6 +32,11 @@ L'utilisateur entre dans la grande pièce devant 2 écrans parrallèles. Il peut
 *voici deux photos des projecteurs nécessaire au fonctionnement de l'oeuvre* 
 
 Pour que cette oeuvre fonctionne bien, il est indispensable que des haut-parleurs, pour que les visiteurs puissent entendre le son, des projecteurs pour projeter les images sur les deux écrans et les écrans pour que les visiteurs puissent admirer l'eouvre. 
+
+
+## Opinion sur le dispositif 
+
+J'ai trouvé l'oeuvre intéressante mais en même temps ennuyante. Le fait que les images diffusées sur les écrans soient superposés est ingénieux selon moi, ceci dit j'ai trouvé que c'était tout de même ennuyeux à la longue. Après quelques minutes, puisque la videé joue en boucle sans cesse, cela devient redondant. Je trouve que dommage que l'on puisse uniquement regarder l'oeuvre. Je comprends que c'est le principe d'une oeuvre contemplative mais tout de même. C'était quand-même assez boen cependant, la musique et la superposition des écrans était intéressante. 
 
 
 
