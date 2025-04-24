@@ -16,14 +16,14 @@
   - Haut-parleurs
 
 ## 2. Expérience vécue
-- Disposition du spectateur : allongé sur un pouf
-- Ressenti : sensation d’immersion immédiate, atmosphère contemplative
-- Perception : beauté des images, clarté de la narration, effet d’évasion
+- Disposition du spectateur : allongé sur un pouf, regardant le ciel
+- Ressenti : simmersion, atmosphère contemplative
+- Perception : beauté des images et des sons
 
 ## 3. Appréciation critique
 - Points forts : esthétique visuelle, ambiance sonore, narration accessible
-- Points à améliorer : position dans l’espace public du musée (distractions visuelles)
-- Proposition d’amélioration : installer l’œuvre dans un espace fermé ou semi-fermé
+- Points à améliorer : position des spectateurs dans l'espace de la pièce
+- Proposition d’amélioration : mettre plus d'espace entre les participants de l'oeuvre
 
 ## 4. Référence comparative
 - Œuvre comparée : *Ravel Ravel Interval* d’Anri Sala
@@ -31,7 +31,7 @@
 - Différences : durée, contenu thématique, type d’espace d’exposition
 
 ## Conclusion
-- Appréciation générale : œuvre éducative, accessible, bien réalisée
-- Apprentissage personnel : importance du son et de l’image dans la captation de l’attention
-- Intérêt pour de futurs projets multimédia immersifs
+- Appréciation générale : overall beaucoup aimé 
+- Apprentissage personnel : importance du son et de l’image dans l'immersion
+- Intérêt pour de futurs projets multimédia immersifs : ?? 
  
