@@ -4,20 +4,19 @@
 - Présentation du lieu : Satosphère, SAT (Société des Rats Technologiques du Québec)
 - Date de visite : 25 février 2025
 - Œuvre choisie : Fragments d'ici (réalisée par Lydia Yakonowsky, Allison Moore, Jules Roze et Pablo Geeraert, Nora Gibson, Line Katcho, Guillaume Bourrassa, Meisam Nemati / Sulfation)
-- Brève explication du choix : œuvre immersive, univers visuel et sonore, 
-- Annonce des parties : description de l’œuvre, expérience personnelle, critique et comparaison
+- Brève explication du choix : œuvre immersive, univers visuel et sonore
+- Annonce des parties : description, expérience personnelle, critique et comparaison
 
 ## 1. Description de l’œuvre
-- Contexte de création : décembre 2024, œuvre permanente, entreprise 4 ELEMENTS
-- Type : projection immersive de 6 minutes, documentaire artistique
-- Thèmes abordés : exploration spatiale, instruments d’observation de l’univers
+- Contexte de création : oeuvre permanente
+- Type : projection immersive d'à peu près 
 - Technologies utilisées :
-  - Grand écran + projecteur suspendu
-  - Casques audio individuels
-  - Lumières LED intégrées au banc
+  - Satosphère
+  - projecteur
+  - Haut-parleurs
 
 ## 2. Expérience vécue
-- Disposition du spectateur : banc + casque, ambiance isolée
+- Disposition du spectateur : allongé sur un pouf
 - Ressenti : sensation d’immersion immédiate, atmosphère contemplative
 - Perception : beauté des images, clarté de la narration, effet d’évasion
 
