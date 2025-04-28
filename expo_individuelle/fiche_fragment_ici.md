@@ -6,9 +6,14 @@
 <img src="./medias/moi_devant_la_sat.jpg" width= 460px height= 620px/> <img src="./medias/espace_sat.jpg" width= 460px height= 620px/>
 </p>
 
+*Voici une photo de moi devant le bâtiment de la SAT et celle de l'intérieur de la SAT. Sources : https://sat.qc.ca/fr/louer-la-sat/*
+
 ## Fragments d'ici : Une exploration immersive dans la Satosphère
 
 Le 25 février 2025, j'ai visité la Satosphère de la Société des Arts Technologiques (SAT) à Montréal, un lieu réputé pour ses expériences immersives et innovantes. Mon choix s’est porté sur Fragments d’ici, une œuvre collaborative réalisée par Lydia Yakonowsky, Allison Moore, Jules Roze, Pablo Geeraert, Nora Gibson, Line Katcho, Guillaume Bourrassa, et Meisam Nemati/Sulfation. Cette projection immersive marie un univers visuel captivant à une ambiance sonore enveloppante, créant une expérience artistique unique.
+
+<p align="center" width="100%">
+<img src="./medias/cartel_fragments.jpg" width="600" height="500"/>
 
 ## Description de l’œuvre
 
