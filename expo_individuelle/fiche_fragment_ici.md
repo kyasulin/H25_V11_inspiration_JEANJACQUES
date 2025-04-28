@@ -1,4 +1,4 @@
-# Destination: L'espace
+# Les fragments d'ici
 
 #### À la SAT, Fragments d'ici invite les visiteurs à explorer des morceaux de mémoire et d’identité québécoises à travers une expérience immersive unique. Présentée dans un espace alliant art et technologie, cette œuvre propose un parcours captivant fait de projections visuelles, de sons enveloppants et d’interactions subtiles. Une immersion qui questionne notre rapport au temps, à l’espace et aux récits qui nous entourent.
 
