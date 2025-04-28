@@ -22,6 +22,13 @@ Fragments d’ici est une collection d’œuvres immersives projetées à 360 de
 
 Les spectateurs assistent à ces projections en position allongée sur des big-bags, leur regard dirigé vers le dôme. Cette posture favorise une immersion totale, transformant le dôme en une sorte de fenêtre ouverte sur un univers onirique. J'utilise le mot onirique parce que les œuvres ne racontent pas d’histoires vraiment claires, mais explorent des thématiques comme les trajectoires, les lignes de fuite, la temporalité, la fluidité et d’autres concepts abstraits. Ces idées sont véhiculées à travers des mouvements fluides, des couleurs vibrantes et une multitude de pixels qui dansent et se transforment, créant un univers d’une richesse visuelle saisissante.
 
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./medias/big_bags_satosphere.jpg" alt="" style="width: 30%; margin-right: 10px;" />
+  <img src="./medias/hauts_parleurs.jpg" alt="" style="width: 30%; margin-right: 10px;" />
+  <img src="./medias/projecteurs_01.jpg" alt="" style="width: 30%;" />
+</div>
+
 ## Mon expérience personnelle
 
 Dès les premières secondes, j’ai été frappée par la qualité des images et des sons, qui semblaient se répondre en parfaite harmonie. La position allongée renforce l’immersion, donnant l’impression d’être aspiré dans un autre monde. L’atmosphère était à la fois apaisante et stimulante, me poussant à réfléchir tout en savourant la beauté de l’instant. J’ai ressenti un profond sentiment de déconnexion avec la réalité autour de moi. L'immense dôme m’a immédiatement enveloppée, et les images évocatrices, combinées aux sons parfaitement synchronisés, m’ont transportée dans un état de contemplation presque méditative. L’absence de narration claire a laissé libre cours à mon imagination, chaque spectateur pouvant interpréter les formes et les couleurs à sa manière. L’ambiance était apaisante, presque hypnotique, tout en étant stimulante sur le plan intellectuel et émotionnel.
