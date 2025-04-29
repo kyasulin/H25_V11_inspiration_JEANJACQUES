@@ -40,6 +40,8 @@ Dès les premières secondes, j’ai été frappée par la qualité des images e
 <img src="./medias/film_02.jpg" width= 260px height= 320px/> <img src="./medias/image_oeuvre_07.jpg" width= 350px height= 320px/> <img src="./medias/image_oeuvre_07_02.jpg" width= 260px height= 320px/>
 </p>
 
+*voici les photos que j'ai prises de 2 des 7 films des fragments d'ici*
+
 ## Appréciation critique
 
 Les points forts de Fragments d’ici sont nombreux. Tout d’abord, l’exécution technique est admirable selon moi : la qualité des projections et la spatialisation sonore sont remarquables, créant une immersion totale. L’esthétique visuelle, avec ses couleurs intenses et ses mouvements fluides, est également un atout majeur. Enfin, la diversité des thématiques abordées offre une expérience riche et variée, chaque œuvre apportant son propre univers.
