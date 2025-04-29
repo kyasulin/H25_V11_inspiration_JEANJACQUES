@@ -20,14 +20,15 @@ Le 25 février 2025, j'ai visité la Satosphère de la Société des Arts Techno
 Fragments d’ici est une collection d’œuvres immersives projetées à 360 degrés sur le dôme de la Satosphère, un espace de 18 mètres de diamètre et de 11,5 mètres de hauteur. Grâce à huit projecteurs vidéo et un système de 90 haut-parleurs, ces œuvres plongent les spectateurs dans un environnement sonore et visuel enveloppant.
 
 
+
+
 Les spectateurs assistent à ces projections en position allongée sur des big-bags, leur regard dirigé vers le dôme. Cette posture favorise une immersion totale, transformant le dôme en une sorte de fenêtre ouverte sur un univers onirique. J'utilise le mot onirique parce que les œuvres ne racontent pas d’histoires vraiment claires, mais explorent des thématiques comme les trajectoires, les lignes de fuite, la temporalité, la fluidité et d’autres concepts abstraits. Ces idées sont véhiculées à travers des mouvements fluides, des couleurs vibrantes et une multitude de pixels qui dansent et se transforment, créant un univers d’une richesse visuelle saisissante.
 
+<p align="center" width="100%">
+<img src="./medias/big_bags_satosphere.jpg" width= 260px height= 320px/> <img src="./medias/hauts_parleurs.jpg" width= 260px height= 320px/ 
+</p>
 
-<div style="display: flex; justify-content: space-around;" >
-  <img src="./medias/big_bags_satosphere.jpg" alt="" style="width: 30%; margin-right: 10px;" />
-  <img src="./medias/hauts_parleurs.jpg" alt="" style="width: 30%; margin-right: 10px;" />
-  <img src="./medias/projecteurs_01.jpg" alt="" style="width: 30%;" />
-</div>
+*voici des photos des big-bags sur lesquels les visiteurs sont allongés et des projecteurs de la salle*
 
 ## Mon expérience personnelle
 
