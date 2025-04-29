@@ -19,8 +19,10 @@ Le 25 février 2025, j'ai visité la Satosphère de la Société des Arts Techno
 
 Fragments d’ici est une collection d’œuvres immersives projetées à 360 degrés sur le dôme de la Satosphère, un espace de 18 mètres de diamètre et de 11,5 mètres de hauteur. Grâce à huit projecteurs vidéo et un système de 90 haut-parleurs, ces œuvres plongent les spectateurs dans un environnement sonore et visuel enveloppant.
 
+<p align="center" width="100%">
+<img src="./medias/croquis_fragments.jpg" width="600" height="500"/>
 
-
+*voici une image du croquis que j'ai dessiné de la pièces*
 
 Les spectateurs assistent à ces projections en position allongée sur des big-bags, leur regard dirigé vers le dôme. Cette posture favorise une immersion totale, transformant le dôme en une sorte de fenêtre ouverte sur un univers onirique. J'utilise le mot onirique parce que les œuvres ne racontent pas d’histoires vraiment claires, mais explorent des thématiques comme les trajectoires, les lignes de fuite, la temporalité, la fluidité et d’autres concepts abstraits. Ces idées sont véhiculées à travers des mouvements fluides, des couleurs vibrantes et une multitude de pixels qui dansent et se transforment, créant un univers d’une richesse visuelle saisissante.
 
