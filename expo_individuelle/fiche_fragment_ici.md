@@ -37,10 +37,10 @@ Les spectateurs assistent à ces projections en position allongée sur des big-b
 Dès les premières secondes, j’ai été frappée par la qualité des images et des sons, qui semblaient se répondre en parfaite harmonie. La position allongée renforce l’immersion, donnant l’impression d’être aspiré dans un autre monde. L’atmosphère était à la fois apaisante et stimulante, me poussant à réfléchir tout en savourant la beauté de l’instant. J’ai ressenti un profond sentiment de déconnexion avec la réalité autour de moi. L'immense dôme m’a immédiatement enveloppée, et les images évocatrices, combinées aux sons parfaitement synchronisés, m’ont transportée dans un état de contemplation presque méditative. L’absence de narration claire a laissé libre cours à mon imagination, chaque spectateur pouvant interpréter les formes et les couleurs à sa manière. L’ambiance était apaisante, presque hypnotique, tout en étant stimulante sur le plan intellectuel et émotionnel.
 
 <p align="center" width="100%">
-<img src="./medias/film_02.jpg" width= 260px height= 320px/> <img src="./medias/image_oeuvre_07.jpg" width= 350px height= 320px/> <img src="./medias/image_oeuvre_07_02.jpg" width= 260px height= 320px/>
+<img src="./medias/trajectoire_interrompue.jpg" width= 260px height= 320px/> <img src="./medias/image_immortelle_01.jpg" width= 350px height= 320px/> <img src="./medias/image_immortelle_02.jpg" width= 260px height= 320px/>
 </p>
 
-*voici les photos que j'ai prises de 2 des 7 films des fragments d'ici*
+*Voici les photos que j'ai prises des films Immortelle et Trajectoire Interrompue de la série de film des fragments d'ici*
 
 ## Appréciation critique
 
